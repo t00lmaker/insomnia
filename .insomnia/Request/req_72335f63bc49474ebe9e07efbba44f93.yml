@@ -1,0 +1,30 @@
+_id: req_72335f63bc49474ebe9e07efbba44f93
+type: Request
+parentId: wrk_39aa884e8a1d4b1bac5d33519461f2f2
+modified: 1682553634016
+created: 1677959496806
+url: "{{ _['url-api'] }}/id3"
+name: Create Job
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": "id3",
+    	"name": "name3",
+    	"description" : " BIG TEXT 3"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1677958162793
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

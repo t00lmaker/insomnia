@@ -1,0 +1,21 @@
+_id: req_1ecff2c4ca5243cab1db6b52637a101a
+type: Request
+parentId: wrk_39aa884e8a1d4b1bac5d33519461f2f2
+modified: 1682553659547
+created: 1677958708961
+url: "{{ _['url-api'] }}/id4/id3"
+name: Get Itens by Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677958162843
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

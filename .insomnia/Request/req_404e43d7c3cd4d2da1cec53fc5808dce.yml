@@ -1,0 +1,21 @@
+_id: req_404e43d7c3cd4d2da1cec53fc5808dce
+type: Request
+parentId: wrk_39aa884e8a1d4b1bac5d33519461f2f2
+modified: 1682774237088
+created: 1677958162893
+url: "{{ _['url-api'] }}/id1"
+name: Jobs by User
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677958162893
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

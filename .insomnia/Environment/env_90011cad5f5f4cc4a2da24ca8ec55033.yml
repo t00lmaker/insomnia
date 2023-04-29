@@ -1,0 +1,14 @@
+_id: env_90011cad5f5f4cc4a2da24ca8ec55033
+type: Environment
+parentId: env_85d9120d349a5e1cef22ac67159262cdfe57ab82
+modified: 1677958625183
+created: 1677958597710
+name: fotoflow-prod
+data:
+  url-api: http://127.0.0.1:3000
+dataPropertyOrder:
+  "&":
+    - url-api
+color: "#fa0505"
+isPrivate: false
+metaSortKey: 1677958437844.5

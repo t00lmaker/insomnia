@@ -1,0 +1,14 @@
+_id: env_f8c322a410454740b9be630e801e245c
+type: Environment
+parentId: env_85d9120d349a5e1cef22ac67159262cdfe57ab82
+modified: 1677958594782
+created: 1677958375104
+name: fotoflow-local
+data:
+  url-api: http://127.0.0.1:3000
+dataPropertyOrder:
+  "&":
+    - url-api
+color: "#22fa05"
+isPrivate: false
+metaSortKey: 1677958375104
